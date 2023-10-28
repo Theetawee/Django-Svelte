@@ -30,6 +30,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'main',
     'corsheaders',
+    "cloudinary_storage",
+    "cloudinary",
     
     
 ]
